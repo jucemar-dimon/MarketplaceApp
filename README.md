@@ -8,7 +8,7 @@ Repository developed in the module "Developing mobile apps with Redux and React 
 <p align="center">
  <a href="https://github.com/jucemar/MarketplaceApp">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jucemar/MarketplaceApp"></a>
-  <a href="https://github.com/jucemar/MarketplaceApp/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jucemar/MarketplaceApp"></a> <a href="https://github.com/jucemar/MarketplaceApp/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/jucemar/cMarketplaceApp"></a>
+  <a href="https://github.com/jucemar/MarketplaceApp/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jucemar/MarketplaceApp"></a> <a href="https://github.com/jucemar/MarketplaceApp/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/jucemar/MarketplaceApp"></a>
 </p>
 
 ## :hammer: Technology
